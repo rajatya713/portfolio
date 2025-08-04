@@ -1,5 +1,5 @@
 import Listify from '../../assets/ProjectLogo/Listify.png'
-import Calculator from '../../assets/ProjectLogo/Calculator.png'
+import Calculator from '../../assets/ProjectLogo/calculator.png'
 import schedulex from '../../assets/ProjectLogo/schedulex.png'
 export const projects = [
     {
