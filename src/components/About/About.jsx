@@ -1,6 +1,6 @@
 import { TypeAnimation } from "react-type-animation";
 import Tilt from 'react-parallax-tilt'
-import profile from '../../assets/profile.png'
+import profile from '../../assets/profile.jpg'
 export default function About() {
   return (
     <section
