@@ -39,7 +39,7 @@ export default function About() {
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10">
             I am a full-stack developer with over 2 years experience in building scalable web applications. Skilled in both front-end and back-end development, I specialize in the MERN stack and other modern technologies to create seamless user experience and efficient solutions.
           </p>
-          <a href="https://drive.google.com/file/d/1hUpLODNp5P9FlbnwEwhfnHsRXiFYwh_m/preview"
+          <a href="https://drive.google.com/file/d/1x3HuJajaEgpoDjyCITFgKD5rqHCcPvTs/preview"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 hover:scale-1.05"
